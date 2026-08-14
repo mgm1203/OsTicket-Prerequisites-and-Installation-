@@ -42,3 +42,5 @@ The goal of this project is to gain hands-on experience deploying an IT help des
 14. Configure the osTicket database connection.
 15. Complete the osTicket installation.
 16. Verify that the osTicket help desk system is accessible and functioning.
+
+# Deployment and Configuration Steps
