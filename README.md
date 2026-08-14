@@ -26,3 +26,19 @@ The goal of this project is to gain hands-on experience deploying an IT help des
 * Windows 10/11 — Local computer used to remotely access and manage the server
 
 # High-Level Deployment and Configuration Steps
+1. Create an Azure Resource Group.
+2. Deploy a Windows Server Virtual Machine.
+3. Configure the Virtual Machine for remote administration.
+4. Connect to the Virtual Machine using RDP.
+5. Install and configure IIS.
+6. Install PHP.
+7. Install PHP Manager for IIS.
+8. Install the required PHP extensions.
+9. Install IIS URL Rewrite.
+10. Install and configure MySQL/MariaDB.
+11. Download and extract osTicket.
+12. Configure osTicket files within IIS.
+13. Access the osTicket web installer.
+14. Configure the osTicket database connection.
+15. Complete the osTicket installation.
+16. Verify that the osTicket help desk system is accessible and functioning.
