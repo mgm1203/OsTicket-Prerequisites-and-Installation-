@@ -28,19 +28,17 @@ The goal of this project is to gain hands-on experience deploying an IT help des
 # High-Level Deployment and Configuration Steps
 1. Create an Azure Resource Group.
 2. Deploy a Windows Server Virtual Machine.
-3. Configure the Virtual Machine for remote administration.
-4. Connect to the Virtual Machine using RDP.
-5. Install and configure IIS.
-6. Install PHP.
-7. Install PHP Manager for IIS.
-8. Install the required PHP extensions.
-9. Install IIS URL Rewrite.
-10. Install and configure MySQL/MariaDB.
-11. Download and extract osTicket.
-12. Configure osTicket files within IIS.
-13. Access the osTicket web installer.
-14. Configure the osTicket database connection.
-15. Complete the osTicket installation.
-16. Verify that the osTicket help desk system is accessible and functioning.
+3. Connect to the Virtual Machine using RDP.
+4. Install and configure IIS.
+5. Install PHP.
+6. Install PHP Manager for IIS.
+7. Install the required PHP extensions.
+8. Install IIS URL Rewrite.
+9. Install and configure MySQL/MariaDB.
+10. Download and extract osTicket.
+11. Configure osTicket files within IIS.
+12. Access the osTicket web installer.
+13. Configure the osTicket database connection.
+14. Complete the osTicket installation.
 
 # Deployment and Configuration Steps
