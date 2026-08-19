@@ -226,5 +226,46 @@ Next, type "everyone," in the box granting everyone permission. Followed by this
 <img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/2b10b01e-772d-427b-85a9-f6b4072ee473" />
 </p>
 
-The next step is to complete the osTicket installation steps by continuing with the setup. After returning to osTicket, click continue to the next portion which will then include all the personal information needed for future users and or people to contact you for help.
+Finally, the last step is to complete the osTicket installation steps by continuing with the setup and installing HeidiSQL. After returning to osTicket, click continue to the next portion which will then include all the personal information needed for future users and or people to contact you for help.
 ##### Note: Make sure to save your username and password for the admin user account. 
+
+<p align="center">
+<img width="542" height="413" alt="Information Technology Course - 4 3 2 - osTicket Installation - CourseCareers - Google Chrome 8_19_2026 5_32_59 AM" src="https://github.com/user-attachments/assets/a4df9608-1f5c-43a5-b629-7377e06dfec4" />
+</p>
+
+Following this step, return to the osTicket Installation Files to install HeidiSQL, this application will allow us to make a connection to our database and configure it. 
+
+<p align="center">
+<img width="975" height="685" alt="image" src="https://github.com/user-attachments/assets/2242bae6-6a66-4d0a-b65b-d06971e08c54" />
+</p>
+
+<p align="center">
+<img width="831" height="535" alt="Information Technology Course - 4 3 2 - osTicket Installation - CourseCareers - Google Chrome 8_19_2026 5_37_20 AM" src="https://github.com/user-attachments/assets/1ec0c8d2-3146-4552-a3a2-43d96d566d54" />
+</p>
+
+Click "New," and enter the user and password created earlier in the lab. This will then open a connection to HeidiSQL. 
+
+<p align="center">
+<img width="819" height="478" alt="Information Technology Course - 4 3 2 - osTicket Installation - CourseCareers - Google Chrome 8_19_2026 5_39_57 AM" src="https://github.com/user-attachments/assets/ff95d904-2e9e-41f2-8fdc-aa486e10e71a" />
+</p>
+
+<p align="center">
+<img width="623" height="505" alt="image" src="https://github.com/user-attachments/assets/62a2a836-d488-491c-9394-bf082c865989" />
+</p>
+
+Next, right click "Unnamed," select create new database and name it exactly "osTicket". 
+
+<p align="center">
+<img width="975" height="284" alt="image" src="https://github.com/user-attachments/assets/b09b93cb-7986-407a-ba6e-0edc89110b12" />
+</p>
+
+Once the database is created in HeidiSQL, we can return to osTicket, insert the information and complete the installation.
+
+<p align="center">
+<img width="757" height="565" alt="Information Technology Course - 4 3 2 - osTicket Installation - CourseCareers - Google Chrome 8_19_2026 5_47_46 AM" src="https://github.com/user-attachments/assets/0cfd31a2-a49e-4825-b812-f048c98c3d52" />
+</p>
+
+Installation Complete! We have now completed the lab and successfully installed osTicket within our Virtual Machine. 
+
+
+
