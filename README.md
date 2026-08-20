@@ -265,7 +265,10 @@ Once the database is created in HeidiSQL, we can return to osTicket, insert the 
 <img width="757" height="565" alt="Information Technology Course - 4 3 2 - osTicket Installation - CourseCareers - Google Chrome 8_19_2026 5_47_46 AM" src="https://github.com/user-attachments/assets/0cfd31a2-a49e-4825-b812-f048c98c3d52" />
 </p>
 
-Installation Complete! We have now completed the lab and successfully installed osTicket within our Virtual Machine. 
+Installation Complete! We have now completed the lab and successfully installed osTicket within our Virtual Machine.
+
+# Overall Learning Outcome
+This project provided practical experience deploying and troubleshooting a web-based IT help desk application. It demonstrated the process of preparing a server environment, installing software dependencies, configuring IIS and PHP,  and verifying a successful osTicket installation.
 
 
 
